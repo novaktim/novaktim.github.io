@@ -1,0 +1,63 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: #111;
+  color: #f3f3f3;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: min(100% - 32px, 960px);
+  margin: 0 auto;
+  padding: 16px 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0 0 0.35rem 0;
+  font-size: clamp(1.1rem, 4vw, 1.6rem);
+}
+
+p {
+  margin: 0 0 0.5rem 0;
+  font-size: clamp(0.85rem, 2.7vw, 1rem);
+  line-height: 1.35;
+  color: #d0d0d0;
+}
+
+#sketch-holder {
+  width: 100%;
+  margin: 0;
+}
+
+canvas {
+  width: 100% !important;
+  max-width: 960px;
+  height: auto !important;
+  display: block;
+  border: 1px solid #444;
+  box-sizing: border-box;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+button {
+  padding: 8px 12px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  border: 1px solid #666;
+  border-radius: 4px;
+  background: #222;
+  color: white;
+}
+
+button:hover {
+  background: #333;
+}
