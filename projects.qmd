@@ -6,4 +6,12 @@ title: "Projects"
 
 Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.
 
-[Interactive demo](projects/dodgeAsteroids_p5js/)
+[Interactive demo](projects/dodgeAsteroids/)
+
+## 2 vs 2 Tennis (2018)
+
+Four populations evolve separately for the upper-left, lower-left, upper-right,
+and lower-right player roles. Each generation evaluates all role combinations, assigning fitness per player based on points won across all evaluations, and
+then replays the best team matchup visually.
+
+[Tennis](projects/tennis/)

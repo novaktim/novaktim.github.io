@@ -14,18 +14,25 @@
     "text": "Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.\nInteractive demo"
   },
   {
+    "objectID": "projects.html#vs-2-tennis-2018",
+    "href": "projects.html#vs-2-tennis-2018",
+    "title": "Projects",
+    "section": "2 vs 2 Tennis (2018)",
+    "text": "2 vs 2 Tennis (2018)\nFour populations evolve separately for the upper-left, lower-left, upper-right, and lower-right player roles. Each generation evaluates all role combinations, assigning fitness per player based on points won across all evaluations, and then replays the best team matchup visually.\nTennis"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tim Novak",
     "section": "",
-    "text": "I am a data scientist/statistician interested in machine learning, statistical modeling, and interactive simulation.\n\n\n\nDodge Asteroids Evolution Demo\nMore projects coming soon\n\n\n\n\nEvolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies."
+    "text": "I am a data scientist/statistician interested in machine learning, statistical modeling, and interactive simulation.\n\n\n\nDodge Asteroids Evolution Demo\n2 vs 2 Tennis Evolution Demo\n\n\n\n\nEvolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.\n\n\n\n\n\nFour populations evolve separately for the upper-left, lower-left, upper-right, and lower-right player roles. Each generation evaluates all role combinations, assigning fitness per player based on points won across all evaluations, and then replays the best team matchup visually."
   },
   {
     "objectID": "index.html#selected-projects",
     "href": "index.html#selected-projects",
     "title": "Tim Novak",
     "section": "",
-    "text": "Dodge Asteroids Evolution Demo\nMore projects coming soon"
+    "text": "Dodge Asteroids Evolution Demo\n2 vs 2 Tennis Evolution Demo"
   },
   {
     "objectID": "index.html#dodge-asteroids-2018",
@@ -33,5 +40,12 @@
     "title": "Tim Novak",
     "section": "",
     "text": "Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies."
+  },
+  {
+    "objectID": "index.html#vs-2-tennis-2018",
+    "href": "index.html#vs-2-tennis-2018",
+    "title": "Tim Novak",
+    "section": "",
+    "text": "Four populations evolve separately for the upper-left, lower-left, upper-right, and lower-right player roles. Each generation evaluates all role combinations, assigning fitness per player based on points won across all evaluations, and then replays the best team matchup visually."
   }
 ]

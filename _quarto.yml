@@ -22,3 +22,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    grid:
+      body-width: 1000px
