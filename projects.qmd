@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+## Dodge Asteroids
+
+Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.
+
+[Interactive demo](projects/dodgeAsteroids_p5js/)

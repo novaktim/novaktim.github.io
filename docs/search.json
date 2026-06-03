@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.\nInteractive demo"
+  },
+  {
+    "objectID": "projects.html#dodge-asteroids",
+    "href": "projects.html#dodge-asteroids",
+    "title": "Projects",
+    "section": "",
+    "text": "Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.\nInteractive demo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tim Novak",
+    "section": "",
+    "text": "I am a data scientist/statistician interested in machine learning, statistical modeling, and interactive simulation.\n\n\n\nDodge Asteroids Evolution Demo\nMore projects coming soon\n\n\n\n\nEvolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Tim Novak",
+    "section": "",
+    "text": "Dodge Asteroids Evolution Demo\nMore projects coming soon"
+  },
+  {
+    "objectID": "index.html#dodge-asteroids-2018",
+    "href": "index.html#dodge-asteroids-2018",
+    "title": "Tim Novak",
+    "section": "",
+    "text": "Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies."
+  }
+]

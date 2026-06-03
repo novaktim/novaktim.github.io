@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - "projects/**"
+
+website:
+  title: "Tim Novak"
+  navbar:
+    background: "#325fa8"
+    left:
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/novaktim
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tim-novak-9961941ab
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
