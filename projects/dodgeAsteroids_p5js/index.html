@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dodge Asteroids - Evolutionary Algorithm</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+  <script src="sketch.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Dodge Asteroids</h1>
+      <p>
+        Evolutionary algorithm demo. A population of 100 neural-network-controlled spaceships learn to dodge asteroids over successive generations. The green player is the best individual copied from the previous generation, while the rest are selected through fitness-proportional roulette-wheel selection and mutated to explore new movement strategies.
+
+      </p>
+    </header>
+
+    <section id="sketch-section">
+      <div id="sketch-holder"></div>
+      <div class="controls">
+        <button id="start-stop-button" type="button">Start</button>
+        <button id="slower-button" type="button">Slower</button>
+        <button id="faster-button" type="button">Faster</button>
+        <button id="skip-button" type="button">Skip generation: off</button>
+        <button id="new-asteroids-button" type="button">New asteroids next generation</button>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
